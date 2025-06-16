@@ -15,3 +15,6 @@ BookingReservationSystem is a desktop-based application developed in C# using Wi
 
 🧾 Printable booking receipts or confirmations
 
+## 📷 Screenshots of the Mobile App
+
+_Note: I'll possibly add screenshots in the future, to view all of our app's functionalities, run it._
